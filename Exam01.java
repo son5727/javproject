@@ -11,6 +11,7 @@ public class Exam01 {
 		int w2 = Integer.parseInt(w1);
 		int h2 = Integer.parseInt(h1);
 		
+		int a  = 3+5;
 		System.out.println(w2 * h2);
 
 	}
